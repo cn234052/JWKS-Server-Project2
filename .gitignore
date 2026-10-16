@@ -1,0 +1,7 @@
+totally_not_my_privateKeys.db
+*.db-journal
+*.db-shm
+*.db-wal
+coverage.out
+gradebot
+CSCE3550_*.tar.gz
