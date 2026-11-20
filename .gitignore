@@ -5,3 +5,7 @@ totally_not_my_privateKeys.db
 coverage.out
 gradebot
 CSCE3550_*.tar.gz
+
+# Local database backups and coverage reports
+*.db
+coverage.html
